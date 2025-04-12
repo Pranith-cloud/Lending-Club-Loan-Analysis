@@ -11,7 +11,7 @@ This project focuses on analyzing loan data from Lending Club using Apache Spark
 
 ## 📁 Project Structure
 
-LendingClub-Loan-Analysis/
+Lending-Club-Loan-Analysis/
 │
 ├── notebooks/
 │   ├── Customers-Cleaned Data.ipynb
