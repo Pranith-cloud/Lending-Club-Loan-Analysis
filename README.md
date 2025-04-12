@@ -14,13 +14,13 @@ This project focuses on analyzing loan data from Lending Club using Apache Spark
 Lending-Club-Loan-Analysis/
 │
 ├── notebooks/
-│   ├── Customers-Cleaned Data.ipynb
-│   ├── Loans-Cleaned Data.ipynb
-│   ├── Loan Defaulters-Cleaned Data.ipynb
 │   ├── Bad Data.ipynb
-│   ├── Loan Score-Caluclation.ipynb
-│   ├── Tables Creation.ipynb
+│   ├── Customers-Cleaned Data.ipynb 
+│   ├── Loan Defaulters-Cleaned Data.ipynb
 │   ├── Loan Repayment-Cleaned Data.ipynb
+│   ├── Loan Score-Caluclation.ipynb
+│   ├── Loans-Cleaned Data.ipynb
+│   ├── Tables Creation.ipynb
 │
 ├── data/
 │   └── lending_club_loan_data.csv
